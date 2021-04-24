@@ -1,0 +1,6 @@
+{
+    "autoimport.showNotifications": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dartImport.fixOnSave": true
+}
